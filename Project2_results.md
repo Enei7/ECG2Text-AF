@@ -8,21 +8,19 @@
 
    a. 时域
 
-1. 
-
 ![img](https://cdn.nlark.com/yuque/0/2025/png/40371192/1763540186454-3772084c-abd6-40d4-b420-ea152f4e478b.png)
 
-1. b. 频域
+   b. 频域
 
 ![img](https://cdn.nlark.com/yuque/0/2025/png/40371192/1763540253969-1b73f5d7-0c98-4ffd-ba8a-9d78bba0622f.png)
 
 2. Atrial Fibrillation
 
-1. a. 时域
+   a. 时域
 
 ![img](https://cdn.nlark.com/yuque/0/2025/png/40371192/1763540288594-88361b52-a1c0-478a-ba08-52aab111108f.png)
 
-1. b. 频域
+   b. 频域
 
 ![img](https://cdn.nlark.com/yuque/0/2025/png/40371192/1763540298529-b8040e12-69fc-4f41-bcfb-c9f670af3261.png)
 
