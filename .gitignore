@@ -1,0 +1,21 @@
+# ===== python cache =====
+__pycache__/
+*.pyc
+
+# ===== results / figures  =====
+task1/results/
+task1/task1_figs/
+task1/task1_visualizations_augmented/
+
+task2/task2_results/
+task2/Aug/
+task2/noAug/
+
+# ===== model checkpoints  =====
+*.pth
+*.pt
+*.bin
+
+# ===== logs =====
+*.log
+
