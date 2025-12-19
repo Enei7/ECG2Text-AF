@@ -402,9 +402,6 @@ python task2_train.py --k_size_stream2 5  # 或7或9
 - [ ] 可视化工具
 
 ---
-
-## 联系方式
-
 如有问题,请检查:
 1. Task1模型权重路径是否正确
 2. Qwen模型是否完整下载
