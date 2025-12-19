@@ -1,8 +1,31 @@
-# ===== python cache =====
+# ===== ECG Project .gitignore =====
+# ===== Python =====
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.dist/
+build/
 
-# ===== results / figures  =====
+# ===== OS / Editor =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ===== Large files / datasets (DO NOT upload) =====
+training2017/
+*.mat
+
+# ===== Model checkpoints / weights =====
+*.pth
+*.pt
+*.bin
+*.safetensors
+
+# ===== Logs / figures / results (DO NOT upload) =====
 task1/results/
 task1/task1_figs/
 task1/task1_visualizations_augmented/
@@ -11,11 +34,7 @@ task2/task2_results/
 task2/Aug/
 task2/noAug/
 
-# ===== model checkpoints  =====
-*.pth
-*.pt
-*.bin
-
-# ===== logs =====
-*.log
-
+# general result folders
+results/
+runs/
+logs/
